@@ -66,4 +66,6 @@ Este fichero será colaborativo.
 - [LLMs Locales](LLMs-locales/res/README.md)
 - [LLMs Locales 2](llms-locales-DFO/README.md)
 - [LLMs Locales 3](LLMs-LOCALES-TMS/LLMs-LOCALES/README.md)
+- [LLMs Locales. Guía Instalación Windows Server (202605) - RTL](LLMs-locales-WindowsServer-RTL/README.md)
 - [Privacidad y Seguridad Proyectos](privacidad-seguridad-proyectos-tech/privacidad-seguridad-proyectos-tech.md)
+
